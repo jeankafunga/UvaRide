@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95467555542",
+    "project_id": "uvaride-66a79",
+    "storage_bucket": "uvaride-66a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95467555542:android:1efa571301f4bc80b9d777",
+        "android_client_info": {
+          "package_name": "com.uvaride.uvaride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95467555542-trgqoc001h2f7mf0s269b1aoen3sitve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EVfn2hkfrf9BnUXpvbHZhCvR45XQuAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95467555542-trgqoc001h2f7mf0s269b1aoen3sitve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
